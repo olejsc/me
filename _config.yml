@@ -59,6 +59,12 @@ plugins:
 
 author:
   name   : "Ole Jakob Schjøth"
+  age : 
+  education : "Bachelor in informatics"
+  education_place : "NTNU, Trondheim"
+  education_duration : "2015-2019"
+  location: "Tromsø"
+  searching_job : "true"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Software developer based in Norway :coffee: Peasant of stackoverflow and expert at googling  :mag_right:"
   links:

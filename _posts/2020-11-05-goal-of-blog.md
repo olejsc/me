@@ -2,7 +2,7 @@
 title: "My first blog post"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Personal
 tags:
   - Personal
   - Programming
