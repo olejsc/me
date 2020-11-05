@@ -42,6 +42,12 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 <div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
 ```
 
+```c#
+public class test {
+
+}
+```
+
 {% capture notice-2 %}
 #### New Site Features
 
