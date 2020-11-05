@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ole Jakob Schjøth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Software developer based in Norway :coffee: Peasant of stackoverflow and expert at googling  :mag_right:"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,12 +71,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/olejsc"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com"
+      url: "https://facebook.com/ole.schjoth"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com"
 
 footer:
   links:
